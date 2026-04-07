@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82a689e1-eaf1-48e1-a6d5-2c959e1b2d8c" name="Changes" comment="">
+    <list default="true" id="82a689e1-eaf1-48e1-a6d5-2c959e1b2d8c" name="Changes" comment="commit de  tp 2">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Anagram.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BinarySearch.java" beforeDir="false" />
@@ -52,6 +53,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="you@example.com &lt;you@example.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -62,39 +68,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.All in tp.executor": "Coverage",
-    "JUnit.Exo1Test (1).executor": "Run",
-    "JUnit.Exo1Test.executor": "Debug",
-    "JUnit.Exo5Test.executor": "Run",
-    "JUnit.exo1branch (1).executor": "Run",
-    "JUnit.exo1branch.executor": "Coverage",
-    "JUnit.exo1condition.executor": "Coverage",
-    "JUnit.exo2branch.executor": "Run",
-    "JUnit.exo2condition.executor": "Run",
-    "JUnit.exo2line.executor": "Run",
-    "JUnit.exo3branch.executor": "Run",
-    "JUnit.exo3condition.executor": "Run",
-    "JUnit.exo3line.executor": "Run",
-    "JUnit.exo4branch.executor": "Run",
-    "JUnit.exo4line.executor": "Run",
-    "JUnit.exo5branch.executor": "Run",
-    "JUnit.exo5condition.executor": "Run",
-    "JUnit.exo5line.executor": "Run",
-    "JUnit.exo6branch.executor": "Run",
-    "JUnit.exo6condition.executor": "Run",
-    "JUnit.exo6line.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/SADI Anis/Desktop/tp/src/main/java/org/example",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.All in tp.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.Exo1Test (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Exo1Test.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Exo5Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo1branch (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo1branch.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.exo1condition.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.exo2branch.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo2condition.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo2line.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo3branch.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo3condition.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo3line.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo4branch.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo4line.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo5branch.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo5condition.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo5line.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo6branch.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo6condition.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.exo6line.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/SADI Anis/Desktop/tp/src/main/java/org/example&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -165,6 +171,15 @@
       <option name="presentableId" value="Default" />
       <updated>1773311530335</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit de  tp 2">
+      <option name="closed" value="true" />
+      <created>1775568745543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775568745543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +193,13 @@
       <map>
         <entry key="6c835640-09b3-4ca3-b1f4-62ba28aaa240">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
         <entry key="a78b0f84-a19f-40e4-974d-2f7b25751f7b">
@@ -188,6 +209,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit de tp1" />
+    <MESSAGE value="commit de  tp 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit de  tp 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
